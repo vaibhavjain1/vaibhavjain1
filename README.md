@@ -12,7 +12,7 @@ Worked with a various multinational tech gaints.
 - 💬 Ask me about Java.
 - 📫 Reach me via mail vaibhavjain_1@yahoo.com
 
-## Find me on <a href="https://www.linkedin.com/in/vaibhav5/">LinkedIn</a>
+## Find me on <a href="https://www.linkedin.com/in/vaibhav5/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <!--
 **vaibhavjain1/vaibhavjain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
